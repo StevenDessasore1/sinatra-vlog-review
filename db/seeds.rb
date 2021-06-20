@@ -10,8 +10,6 @@ maddy = User.create(name:"Maddy", email: "maddy@gmail.com", password: "password"
 
 #create vlogs entries
 
-VlogEntry.create(title: "Mexico City Night Life", user_id: steven.id)
-
 
 steven.vlog_entries.create(title: "Where to go while visiting Arequipa, Peru")
 

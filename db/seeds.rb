@@ -11,12 +11,12 @@ maddy = User.create(name:"Maddy", email: "maddy@gmail.com", password: "password"
 #create vlogs entries
 
 
-steven.vlog.create(title: "Where to go while visiting Arequipa, Peru")
+steven.vlogs.create(title: "Where to go while visiting Arequipa, Peru")
 
-demeris.vlog.create(title: "Meeting a Subscriber in Medellin and Futbol Game Vlog in Colombia Streets 4K")
+demeris.vlogs.create(title: "Meeting a Subscriber in Medellin and Futbol Game Vlog in Colombia Streets 4K")
 
-amare.vlog.create(title: "Final thoughts on Living in Medellin Colombia")
+amare.vlogs.create(title: "Final thoughts on Living in Medellin Colombia")
 
-maddy.vlog.create(title: "CAN I LIVE IN THE PHILIPPINES With $550 Per Month?")
+maddy.vlogs.create(title: "CAN I LIVE IN THE PHILIPPINES With $550 Per Month?")
 
 
